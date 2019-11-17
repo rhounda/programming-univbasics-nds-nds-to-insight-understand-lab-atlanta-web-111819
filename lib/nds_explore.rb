@@ -3,7 +3,7 @@ require 'directors_database'
 require 'pp' 
 puts directors_database
 def pretty_print_nds(nds)
-  'pp'
+  pp nds
   nil
 end
 
